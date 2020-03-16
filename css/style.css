@@ -21,6 +21,15 @@ p {
     font-size: 12px;
 }
 
-img {
+footer {
+    margin-bottom: 30px;
+}
+
+.Img_padrao {
     margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 30px;
 }
