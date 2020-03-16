@@ -1,35 +1,26 @@
 body {
-    background: rgb (226,164,164);
-    margin-left: 50px;
-    margin-right: 200px;
+    font: 20px Arial, sans-serif;
 }
 
-header {
-    margin-top: 50px;
+.navbar {
+    background-color: #F5F6CE;
 }
 
-h1 {
-    color: red;
-    font-family: fantasy;
+.quem-somos {
+    background-color: #58ACFA;
+    color: white;
 }
 
-h2 {
-    font-family: fantasy;
+.margin {
+    scroll-padding-top: 10px;
+    padding-bottom: 15px;
 }
 
-p {
-    font-size: 12px;
+.produtos {
+    background-color: #2EFE9A;
 }
 
-footer {
-    margin-bottom: 30px;
-}
-
-.Img_padrao {
-    margin-bottom: 20px;
-    width: 300px;
-}
-
-.logo {
-    width: 30px;
+.bg-footer {
+    background-color: black;
+    color: white;
 }
